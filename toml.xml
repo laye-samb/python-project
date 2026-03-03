@@ -1,0 +1,10 @@
+[project]
+name = "laye-samb"
+version = "0.1.0"
+description = "Projet Python structuré comme Spring Boot"
+authors = [{name = "Laye Samb"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
